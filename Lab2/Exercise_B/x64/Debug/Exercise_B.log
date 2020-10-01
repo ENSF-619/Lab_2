@@ -1,0 +1,5 @@
+﻿  lab2exe_B.c
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_2\lab2exe_B.c(45,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_2\lab2exe_B.c(61,5): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_2\lab2exe_B.c(67,5): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_2\lab2exe_B.c(71,5): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
