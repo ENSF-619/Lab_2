@@ -55,7 +55,6 @@ void display_struct_point(struct point x)
 
 double distance(const struct point* p1, const struct point* p2)
 {
-    // This funciton is incomplete and needs to be changed and complted by
-    // the students to calculate and return the distance betwn the two three-D points
+ 
     return sqrt(pow(p1->x-p2->x,2)+ pow(p1->y - p2->y, 2)+ pow(p1->z - p2->z, 2));
 }

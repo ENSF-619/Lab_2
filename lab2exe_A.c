@@ -46,7 +46,7 @@ int main(void)
 void try_to_copy(double dest[], double source[])
 {   
     dest = source;
-        
+    printf("%f", dest[0]);
     /* point two*/
    
     return;

@@ -1,5 +1,8 @@
 /*
- *  lab2exe_B.c
+ *  File Name: lab2exe_B.c
+ *  Lab:2
+ *  Completed by: Ziad Chemali
+ *  Submission Date: 02,10,2020
  *
  *  ENSF 619 Fall 2020 Lab 2 Exercise B
  *
@@ -58,7 +61,7 @@ int main(void)
     
     bytes = sizeof (my_string);
     printf("\nLine 7: my_string size is still %d bytes.", bytes);
-    printf("\n %s",my_string);
+   
     /* my_strncat append the first 3 characters of str5 to the end of my_string */
     my_strncat(my_string, str5, 3);
     printf("\nLine 8: my_string contains:\"%s\"", my_string);
